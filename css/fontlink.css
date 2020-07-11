@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'Mongolian White';
+  src:url('../fonts/mnglwhiteotf.ttf') format("opentype");
+
+}
+@font-face {
+  font-family: 'Mongolian Writing';
+  src:url('../fonts/mnglwritingotf.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Mongolian Art';
+  src:url('../fonts/mnglartotf.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Mongolian Title';
+  src:url('../fonts/mngltitleotf.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Menk Qagan Tig';
+  src:url('../fonts/MQG8F02.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Scnin Tig';
+  src:url('../fonts/MSN8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Har_a Tig';
+  src:url('../fonts/MHR8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Hawang Tig';
+  src:url('../fonts/MHW8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Garqag Tig';
+  src:url('../fonts/MGQ8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Hvlvsvn Tig';
+  src:url('../fonts/MHL8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Narin Tig';
+  src:url('../fonts/MNR8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Vran Tig';
+  src:url('../fonts/MVR8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Mcdvnbar Tig';
+  src:url('../fonts/MMB8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk BudunTig';
+  src:url('../fonts/MBD8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Qimed Tig';
+  src:url('../fonts/MQD8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Amglang Tig';
+  src:url('../fonts/MAM8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Lhundb Tig';
+  src:url('../fonts/MLD8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk OnqaHar_a Tig';
+  src:url('../fonts/MTH8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Qimig Tig';
+  src:url('../fonts/MQM8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Tvgvrai Tig';
+  src:url('../fonts/MTR8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Ujug Tig';
+  src:url('../fonts/MWJ8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Sidam Tig';
+  src:url('../fonts/MBN8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Svlbiya Tig';
+  src:url('../fonts/MBJ8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Egulen Tig';
+  src:url('../fonts/MYN8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Vyangga Tig';
+  src:url('../fonts/MVY8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Svgvnag Tig';
+  src:url('../fonts/MSO8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Tenigun Tig';
+  src:url('../fonts/MSH8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Qingming Tig';
+  src:url('../fonts/MQI8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Xvsiga Tig';
+  src:url('../fonts/MPB8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Doroge Tig';
+  src:url('../fonts/MMD8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Tegus Tig';
+  src:url('../fonts/MLU8102.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Menk Erihe Tig';
+  src:url('../fonts/MER8102.ttf') format('truetype');
+}
